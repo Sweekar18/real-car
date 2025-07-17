@@ -1,13 +1,46 @@
-# 🚘 Responsive Car website
-## [Watch it on youtube](https://youtu.be/bDngcOQ8Img)
-### 🚘 Responsive Car website
+# REAL CAR – Responsive Car Buying & Selling Website
 
-- Responsive Car website Using HTML CSS & JavaScript
-- Contains animations when scrolling.
-- Smooth scrolling in each section.
-- Developed first with the Mobile First methodology, then for desktop.
-- Compatible with all mobile devices and with a beautiful and pleasant user interface.
+This is a fully responsive, modern car dealership website built as a part of my 2nd semester CSE326 project.  
+Designed and developed primarily by me with collaboration from my teammates.
 
-💙 Join the channel to see more videos like this. [Bedimcode](https://www.youtube.com/c/Bedimcode)
+## Technologies Used
 
-![preview img](/preview.png)
+- HTML5  
+- CSS3  
+- JavaScript  
+- Bootstrap 5  
+- jQuery  
+
+## Features
+
+- Mobile-first responsive design  
+- Clean and elegant UI  
+- Dynamic interactive elements powered by JavaScript and jQuery  
+- Easy navigation with smooth scrolling  
+
+## Live Demo
+
+The website is currently hosted on GitHub Pages:  
+[https://Sweekar18.github.io/real-car/](https://Sweekar18.github.io/real-car/)
+
+## Future Plans
+
+- Purchase and connect a custom domain (e.g. realcar.in)  
+- Add contact forms and backend integration  
+- Enhance with more car listings and dynamic content  
+
+## Author
+
+Sweekar Subedi – Computer Science student and web developer
+
+---
+
+## How to Run Locally
+
+1. Clone the repository  
+2. Open `index.html` in any modern browser  
+3. Customize as needed  
+
+---
+
+Feel free to explore and contribute!
